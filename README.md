@@ -1,2 +1,2 @@
-# jlp0422.github.io
-Personal Wesite
+# Max Gordon Fitness
+Website rebuild
